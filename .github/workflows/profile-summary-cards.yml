@@ -1,4 +1,4 @@
-name: GitHub-Profile-Summary-Cards
+name: Generate-snake-game-from-github-contribution-grid
 
 on:
   create:
